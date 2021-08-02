@@ -91,7 +91,7 @@
         <dependency>
             <groupId>com.graphhopper</groupId>
             <artifactId>graphhopper-web-bundle</artifactId>
-            <version>0.12.0-pre1</version>
+            <version>3.2</version>
         </dependency>
 
         <dependency>
